@@ -1,3 +1,9 @@
+--[[ 
+	Version: 1.0
+	Creator: Amy (Misukins)
+	© Misukins You can change this and share but give me some credit ok?
+--]]
+
 Locator = {
 	name = "Locator",
 	description = "get your current location.",
